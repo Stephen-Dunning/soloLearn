@@ -1,0 +1,11 @@
+Javascript solution to Sololearn Problem Time IN Minutes 22nd Marrch 2023
+(I got it first attempt!!!!)
+
+
+function main() {
+    var distance = parseInt(readLine(), 10);
+    //your code goes here
+    time = distance / 40 
+    timeInMinutes = time * 60
+    console.log(timeInMinutes)
+}
